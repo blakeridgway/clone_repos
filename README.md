@@ -2,5 +2,5 @@
 
 **Prerequisites**
 
-- The `gh` command-line tool must be installed, this will allow you to interact directly with Github in your terminal.
-
+- The Github `gh` command-line tool must be installed, this is what allows you to interact directly with Github in your terminal.
+  - You can find installation documentation [here](https://github.com/cli/cli#installation)
